@@ -1,3 +1,7 @@
+## More Info
+
+[github.com/p1xt/p1xt-guides](https://github.com/P1xt/p1xt-guides/)
+
 ## Read these books, complete these two courses, this certification, and these three projects
 
 - [x] Book: [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)    
